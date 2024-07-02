@@ -58,3 +58,8 @@ h3 {
 #mainLeft {
   border-right: 1px solid lightgray;
 }
+
+.vl {
+  border-left: 1px solid lightgray;
+  height: auto;
+}
